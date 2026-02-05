@@ -1,0 +1,7 @@
+aeiou
+sky
+train
+bcd
+apple
+xyz
+orange
